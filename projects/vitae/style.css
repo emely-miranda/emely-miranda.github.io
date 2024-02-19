@@ -1,0 +1,29 @@
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: slategray;
+}
+
+#letter {
+    background-color: #e4eef0;
+    color: #001144;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-inline-start: 10%;
+    padding-inline-end: 10%;
+}
+
+main {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #666666;
+}
+
+section {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #001144;
+    font-size: large;
+}
+
+footer {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
