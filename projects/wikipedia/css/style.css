@@ -1,0 +1,27 @@
+header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#Details {
+    background-color: #d5f5e3;
+    padding: 1% 1%;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: #14440b;
+}
+
+section {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer {
+    background-color: #d5f5e3;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 1% 1%;
+}
