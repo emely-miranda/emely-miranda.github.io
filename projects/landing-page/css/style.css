@@ -1,0 +1,60 @@
+header {
+    background-color: #12390B;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 2% 0;
+
+}
+
+h1 {
+    font-family: "IBM Plex Sans", sans-serif;
+    color: white;
+    font-weight: 1000;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+nav a {
+    font-size: 1em;
+    text-align: center;
+    padding: 5%;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+h2 {
+    font-family: "IBM Plex Sans", sans-serif;
+}
+
+section,
+footer,
+h2,
+h3,
+h4 {
+    padding: 3% 0;
+}
+
+h3,
+#info {
+    color: #818181;
+}
+
+a:hover {
+    color: black;
+}
+
+footer {
+    background-color: #DFC79C;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h4 {
+    font-size: 20px;
+}
