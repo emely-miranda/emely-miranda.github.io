@@ -1,0 +1,73 @@
+header,
+section,
+footer {
+    padding: 1.5%;
+}
+
+a {
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
+
+h1 {
+    color: #E3B806;
+}
+
+h2,
+h4 {
+    color: #D49821;
+}
+
+h3,
+a,
+p,
+footer {
+    color: #475B40;
+}
+
+h4 {
+    font-weight: 200;
+}
+
+h1,
+h2,
+footer h3,
+#title h3,
+#container h3 {
+    font-family: "Lora", serif;
+}
+
+a,
+h3,
+h4 {
+    font-family: "Assistant", sans-serif;
+}
+
+#date p {
+    font-weight: 700;
+    color: black;
+}
+
+#container {
+    padding: 1.5%;
+}
+
+
+#container,
+#container h2,
+#container h3,
+#container p,
+#container a {
+    background-color: #475B40;
+    color: #EBEBEB;
+    padding: 1%;
+}
+
+
+footer {
+    background-color: #EBEBEB;
+}
