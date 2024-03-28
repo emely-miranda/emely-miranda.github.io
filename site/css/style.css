@@ -4,22 +4,37 @@ footer {
     padding: 1.5%;
 }
 
+#header {
+    text-align: center;
+
+
+}
+
 a {
     text-transform: uppercase;
     text-decoration: none;
+    font-family: "Assistant", sans-serif;
 }
 
-a:hover {
+#date p,
+#header {
+    font-weight: 700;
+}
+
+a:hover,
+#descriptions p,
+#date p {
     color: black;
 }
 
-h1 {
-    color: #E3B806;
+h1,
+footer h2 {
+    color: #D49821;
 }
 
 h2,
 h4 {
-    color: #D49821;
+    color: #E3B806;
 }
 
 h3,
@@ -41,21 +56,10 @@ footer h3,
     font-family: "Lora", serif;
 }
 
-a,
 h3,
 h4 {
     font-family: "Assistant", sans-serif;
 }
-
-#date p {
-    font-weight: 700;
-    color: black;
-}
-
-#container {
-    padding: 1.5%;
-}
-
 
 #container,
 #container h2,
@@ -67,7 +71,12 @@ h4 {
     padding: 1%;
 }
 
+#container p,
+#container a {
+    font-size: larger;
+}
 
+header,
 footer {
     background-color: #EBEBEB;
 }
