@@ -4,7 +4,8 @@ footer {
     padding: 1.5%;
 }
 
-#header {
+#header,
+#container {
     text-align: center;
 
 
@@ -68,7 +69,7 @@ h4 {
 #container a {
     background-color: #475B40;
     color: #EBEBEB;
-    padding: 1%;
+    padding: 1.5%;
 }
 
 #container p,
