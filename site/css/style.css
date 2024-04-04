@@ -1,14 +1,24 @@
+header {
+    text-align: center;
+}
+
+header,
+footer {
+    background-color: #EBEBEB;
+}
+
+img {
+    padding: 0 0 2% 0;
+}
+
 header,
 section,
 footer {
     padding: 1.5%;
 }
 
-#header,
-#container {
-    text-align: center;
-
-
+nav a {
+    padding: 0 5% 0 0;
 }
 
 a {
@@ -17,25 +27,30 @@ a {
     font-family: "Assistant", sans-serif;
 }
 
-#date p,
-#header {
+header,
+#title p {
     font-weight: 700;
 }
 
 a:hover,
-#descriptions p,
-#date p {
+#title p {
     color: black;
 }
 
-h1,
-footer h2 {
+h1 {
     color: #D49821;
 }
 
 h2,
 h4 {
     color: #E3B806;
+}
+
+h1,
+h2,
+footer h3,
+#container h3 {
+    font-family: "Lora", serif;
 }
 
 h3,
@@ -45,24 +60,15 @@ footer {
     color: #475B40;
 }
 
-h4 {
-    font-weight: 200;
-}
-
-h1,
-h2,
-footer h3,
-#title h3,
-#container h3 {
-    font-family: "Lora", serif;
-}
-
+#descriptions h2,
 h3,
 h4 {
     font-family: "Assistant", sans-serif;
+    font-weight: 200;
 }
 
 #container,
+#container h1,
 #container h2,
 #container h3,
 #container p,
@@ -72,12 +78,7 @@ h4 {
     padding: 1.5%;
 }
 
-#container p,
-#container a {
+#container a,
+#container p {
     font-size: larger;
-}
-
-header,
-footer {
-    background-color: #EBEBEB;
 }
