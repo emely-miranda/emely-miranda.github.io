@@ -19,7 +19,8 @@ nav a {
 }
 
 h2,
-header h3 {
+header h3,
+footer {
     font-family: "PT Serif", serif;
 }
 
@@ -47,4 +48,9 @@ a:hover {
 
 #note {
     font-weight: 100;
+}
+
+footer {
+    background-color: #4d5d53;
+    padding: 2%;
 }
