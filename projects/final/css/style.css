@@ -1,0 +1,50 @@
+/* font-family: "PT Serif", serif;
+font-family: "Cinzel", serif;
+font-family: "Montserrat", sans-serif;
+color: #DBEAD2;
+color: #4d5d53;
+color: #FFE6F7; 
+color: #b1d697; */
+
+
+header {
+    text-align: center;
+    background-color: #dbead2;
+    padding: 2%;
+}
+
+h1,
+nav a {
+    font-family: "Cinzel", serif;
+}
+
+h2,
+header h3 {
+    font-family: "PT Serif", serif;
+}
+
+main {
+    padding: 3% 0 1% 0;
+}
+
+p {
+    font-family: "Montserrat", sans-serif;
+}
+
+nav a {
+    padding: 0 10%;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+
+}
+
+a:hover {
+    color: #4d5d53;
+}
+
+#note {
+    font-weight: 100;
+}
