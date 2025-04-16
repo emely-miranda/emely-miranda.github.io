@@ -75,14 +75,20 @@ h4 {
     background-position: center;
 }
 
-#container h1,
+#container h1 {
+    color: #fff4c6;
+}
+
+.box {
+    background-color: #fff4c6;
+}
+
 #container h2,
 #container h3,
 #container p,
 #container a {
-    color: #fff4c6;
+    color: #475B40;
     padding: 1.5%;
-    text-shadow: 5px 5px 10px #5D5E4F;
 }
 
 #container p {
